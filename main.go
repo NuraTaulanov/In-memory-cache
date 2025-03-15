@@ -1,7 +1,7 @@
 package main
 
 import (
-	"cache/cache"
+	"github.com/NuraTaulanov/In-memory-cache/cache"
 	"fmt"
 )
 
