@@ -1,6 +1,6 @@
 In-memory cache implementation, Go package
 
-go get -u -v  https://github.com/NuraTaulanov/In-memory-cache/
+go get -u -v  github.com/NuraTaulanov/In-memory-cache/
 ...
 Get(key string) interface{}
 Set(key string, value interface{})
